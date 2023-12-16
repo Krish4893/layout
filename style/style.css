@@ -1,0 +1,49 @@
+div{
+    text-align: center;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: aquamarine;
+    
+}
+section{
+    border: 1px solid black;
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 10px;
+    margin: 5px;
+}
+p{
+    display: block;
+}
+.rtwo{
+    margin-top: -5px;
+    height: 560px;
+}
+.span2{
+    width: 450px;
+    margin-top: -1px;
+    height: 503px;
+    float: left;
+}
+.span3{
+    width: 1045px;
+    margin-left: 455px;
+   
+}
+.span5{
+    margin-top: -1px;
+    float: right;
+    height: 163px;
+    width: 510px;
+}
+.span4{
+    height: 163px;
+    width: 510px;
+}
+.rfour{
+    margin-top: -5px;
+}
+.span6{
+    height: 165px;
+}
